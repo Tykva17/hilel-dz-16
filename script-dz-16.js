@@ -12,4 +12,4 @@ function generateKey(length, characters){
 }
 
 const key = generateKey(16, characters);
-console.log(key); // eg599gb60q926j8i
+console.log(key);
